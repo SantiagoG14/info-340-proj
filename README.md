@@ -1,9 +1,10 @@
 # Group members
 
 Santiago Garcia
-<<<<<<< HEAD
+
 Alex Berry
-=======
+
+Sahal Abdi
 
 Katie Hsu
->>>>>>> refs/remotes/origin/main
+
